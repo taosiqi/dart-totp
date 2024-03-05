@@ -1,7 +1,7 @@
 name: dart_totp
-description: A starting point for Dart libraries or applications.
+description: 从密钥生成TOTP验证码 Generate TOTP tokens from key
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/taosiqi/dart-totp
 
 environment:
   sdk: ^3.0.6
